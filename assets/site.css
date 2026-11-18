@@ -360,7 +360,7 @@ html:lang(zh-Hant-HK) .cs-step h3 { letter-spacing: .2em; }
   .mbar a:nth-child(1) { background: var(--navy); }
   .mb-ic { width: 12px; height: 12px; background: currentColor; border-top-left-radius: 6px; }
   .menu-open .mbar { display: none; }
-  .concept-long, .concept-by { display: none; }
+  .concept-long { display: none; }
   .ask-row { grid-template-columns: 1fr; }
   .brand-zh { letter-spacing: .2em; }
   .door { min-height: 0; }
