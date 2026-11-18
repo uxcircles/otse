@@ -102,7 +102,7 @@ def header(slug):
 <a class="skip" href="#main">{L("Skip to content", "跳至內容")}</a>
 <div class="concept-bar" role="note">
   <div class="wrap concept-inner">
-    <p><span class="concept-tag">{L("Concept", "概念")}</span><span class="concept-long">{L('Concept redesign. Not the <a href="' + OFFICIAL + '" target="_blank" rel="noopener">official O Tse &amp; Co. website</a>.', '概念設計展示，並非 <a href="' + OFFICIAL + '" target="_blank" rel="noopener">謝延豐律師行官方網站</a>。')}</span></p>
+    <p><span class="concept-tag">{L("Concept", "概念")}</span><span class="concept-long">{L('Redesign concept. Not the <a href="' + OFFICIAL + '" target="_blank" rel="noopener">official O Tse &amp; Co. website</a>.', '改版概念設計，並非 <a href="' + OFFICIAL + '" target="_blank" rel="noopener">謝延豐律師行官方網站</a>。')}</span></p>
     <a href="{UXC}" target="_blank" rel="noopener"><span class="concept-by">{L("Designed by ", "設計：")}</span><strong>UX CIRCLES</strong> <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 17 17 7M8 7h9v9"/></svg></a>
   </div>
 </div>
