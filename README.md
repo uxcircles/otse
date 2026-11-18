@@ -43,8 +43,8 @@ python3 _build/pages.py && python3 _build/fonts.py   # 改了中文字之後要�
 
 ## 需要律師行確認的資料
 
-- **SRA 編號**：現有網站只寫「受 SRA 規管」，沒有編號，本概念亦沒有填寫。SRA 規定律師行網站要顯示 SRA 數碼徽章（digital badge）。
-- **WhatsApp**：現有網站全部 18 個 WhatsApp 按鈕連到 `wa.me/+4407511374988`（多了國碼後的「0」）；本概念用 `wa.me/447511374988`。
+- **SRA 編號及數碼徽章**：現有網站只寫「受 SRA 規管」，沒有編號，亦沒有 SRA 要求展示的數碼徽章（digital badge）。本概念未填寫，需律師行提供。
+- **收費資料**：SRA Transparency Rules 要求就住宅樓宇買賣、遺產認證及勞資審裁處申索等服務公佈收費資料，現有網站只寫「費用視乎情況」。本概念未加入收費，需律師行提供。
 - **辦公時間**：大部分頁面寫星期一至五，但英文 Personal 頁寫「Monday - Saturday」。本概念用星期一至五。
 - **客戶評語及案例**：照搬現有網站已公開的內容，沒有新增。
 - **私隱聲明**：現有網站的 Privacy Policy、FAQ、Site Map、Cookie Policy 都沒有實際連結；本概念的私隱聲明是草稿，需律師行審閱。
